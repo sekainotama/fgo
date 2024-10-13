@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.kj {
+  display: flex;
+}
+
+.kj img {
+  width: 50%;
+}
+
+.ig {
+  padding: 15px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
